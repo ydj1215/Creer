@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec443cdc.css",
+    "main.js": "/static/js/main.dbd39742.js",
+    "static/js/787.51d775f1.chunk.js": "/static/js/787.51d775f1.chunk.js",
+    "static/media/category6.png": "/static/media/category6.2e49e8217c5ab6d75893.png",
+    "static/media/category4.png": "/static/media/category4.89ef63914d29f100b220.png",
+    "static/media/category5.png": "/static/media/category5.7f6e2cfd8e696d5b4ad0.png",
+    "static/media/cart.png": "/static/media/cart.dd8981895b14944bca8f.png",
+    "static/media/category.png": "/static/media/category.3b0b966b352ce3aeb40a.png",
+    "static/media/category3.png": "/static/media/category3.ba015a56e8cc42b55ce8.png",
+    "static/media/kakao.png": "/static/media/kakao.d4f7e310cbe8205ca9d1.png",
+    "static/media/logo.svg": "/static/media/logo.0a14c54da68317aef3c50896fb1bf013.svg",
+    "static/media/category2.png": "/static/media/category2.7ac1014461494407ea39.png",
+    "static/media/category7.png": "/static/media/category7.537f2ac6bd4bb6efe0ed.png",
+    "index.html": "/index.html",
+    "main.ec443cdc.css.map": "/static/css/main.ec443cdc.css.map",
+    "main.dbd39742.js.map": "/static/js/main.dbd39742.js.map",
+    "787.51d775f1.chunk.js.map": "/static/js/787.51d775f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec443cdc.css",
+    "static/js/main.dbd39742.js"
+  ]
+}
